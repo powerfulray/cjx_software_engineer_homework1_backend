@@ -1,5 +1,7 @@
 # codestyle.md — Spring Boot (Google Java Style Guide + Spring 补充)
 
+主要参考来源:Google Java Style Guide ，Spring 官方指南
+
 ## 1. 总体说明
 本规范以 **Google Java Style Guide**（Java）为基准，结合 Spring Boot 推荐的项目结构与常见社区约定，目的是保证代码一致性、可读性与可维护性。团队应把此文件放在仓库根目录并在新成员入职时说明。
 
